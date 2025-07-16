@@ -59,7 +59,7 @@ Run it:
 ### Task 4: Reflect
 
 - Create a file named reflection.txt and answer the following:
-- What is the purpose of a shell?
+- echo?
 - What did you learn by running shell commands?
 - How was using the terminal different from clicking through folders?
 
