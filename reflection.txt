@@ -1,0 +1,1 @@
+1.The purpose of a shell is to take commands from the user and tell the operating system what to do. 2.I learned how to identify the type of shell commands using type, which and command in a bash script. 3 Using the terminal was different from clicking throw folders because it gave me more control over operations using specific commands
